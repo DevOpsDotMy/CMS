@@ -10,16 +10,20 @@ body {
     text-align: center;
     margin-top: 1%;
     line-height: 30px;
-    background-color:#FFFFFF;
+    background-color:#000;
 }
 .txtblue {
     font-size: 16px;
     font-weight: 400;
-    color: #010326;
+    color: #0094ff;
 }
-.txtgold {
+.txtwhite {
     font-size: 16px;
-    color: #BF9004;
+    color: #fff;
+}
+.txtyellow {
+    font-size: 16px;
+    color: #ffd400;
 }
 .imgcenter {width:40%;
 }
