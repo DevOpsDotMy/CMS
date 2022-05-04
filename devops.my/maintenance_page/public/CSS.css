@@ -20,14 +20,12 @@ body {
     font-size: 16px;
     font-weight: 400;
     color: #0094ff;
-}
-.txtwhite {
-    font-size: 16px;
-    color: #fff;
+    font-weight: bold;
 }
 .txtyellow {
     font-size: 16px;
     color: #ffd400;
+    font-weight: bold;
 }
 .imgcenter {width:40%;
 }
