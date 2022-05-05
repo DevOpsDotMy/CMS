@@ -6,7 +6,7 @@
     line-height: 30px;
     background-image: url("https://devopsdotmy.github.io/CMS/devops.my/maintenance_page/public/background.gif");
     background-position: center;
-
+    background-size: cover;
     background-repeat: no-repeat;
 }
 .txtblue {
