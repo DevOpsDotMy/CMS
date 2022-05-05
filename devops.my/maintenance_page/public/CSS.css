@@ -1,4 +1,4 @@
-﻿body {
+﻿html {
     padding: 8%;
     font-family: verdana;
     text-align: center;
@@ -11,4 +11,17 @@
     -o-background-size: cover;
     background-size: cover;
     background-repeat: no-repeat;
+}
+.txtblue {
+    font-size: 16px;
+    font-weight: 400;
+    color: #0094ff;
+    font-weight: bold;
+}
+.txtyellow {
+    font-size: 16px;
+    color: #ffd400;
+    font-weight: bold;
+}
+.imgcenter {width:40%;
 }
