@@ -23,6 +23,5 @@
     font-weight: bold;
 }
 .imgcenter {
-    background-repeat: no-repeat;
-    background-size: contain;
+    width: 40%;
 }
