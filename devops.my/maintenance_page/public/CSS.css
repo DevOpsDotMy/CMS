@@ -22,5 +22,6 @@
     font-weight: bold;
 }
 .imgcenter {
-    width: 40%;
+    background-repeat: no-repeat;
+    background-size: contain;
 }
