@@ -22,5 +22,7 @@
     color: #ffd400;
     font-weight: bold;
 }
-.imgcenter {width:40%;
+.imgcenter {
+    background-repeat: no-repeat;
+    background-size: contain;
 }
