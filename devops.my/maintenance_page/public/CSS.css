@@ -2,13 +2,14 @@
     padding: 8%;
     font-family: verdana;
     text-align: center;
-
+    margin-top: 1%;
     line-height: 30px;
     background-image: url("https://devopsdotmy.github.io/CMS/devops.my/maintenance_page/public/background.gif");
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
     height: 100%;
+	width: 100%;
 }
 .txtblue {
     font-size: 16px;
@@ -22,6 +23,5 @@
     font-weight: bold;
 }
 .imgcenter {
-    background-repeat: no-repeat;
-    background-size: contain;
+	width:40%;
 }
